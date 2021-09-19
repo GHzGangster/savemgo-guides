@@ -22,7 +22,8 @@ To follow this guide, you will need the following:
 
 * An un-hacked ("normal") PS3, which has PSN access, on Firmware 4.88 or earlier
 * A disc with MGO data on it
-    * &#10004;&#65039; MGO Japan Standalone, MGS4 Original, Greatest Hits or Platinum with the old "PlayStation 3" logo (**not the newer "PS3" logo**)
+    * &#10004;&#65039; MGO Japan Standalone, MGS4 Original
+    * &#10004;&#65039; MGS4 Greatest Hits or Platinum **with the old "PlayStation 3" logo** (not the newer "PS3" logo)
     * &#10060; MGS4 25th Anniversary, Legacy Collection, Digital Version
 * A flash drive with around 200 MB of free space, formatted as FAT32
 * A computer. This guide uses Windows 10, but any operating system should work.
