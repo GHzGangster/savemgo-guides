@@ -1,6 +1,6 @@
 # MGO Launcher Guide (CFW / HEN)
 
-Last updated: November 2020.
+Last updated: February 2020.
 
 This is the **Launcher Guide**, a guide for PS3s on Custom Firmware (CFW) and HEN.
 
