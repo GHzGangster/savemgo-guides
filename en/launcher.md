@@ -7,8 +7,8 @@ This is the **Launcher Guide**, a guide for PS3s on Custom Firmware (CFW) and HE
 
 ## Downloads
 
-* MGO2-v24.pkg
-  * <https://metalgear.online/dl/cfw/MGO2-v24.pkg> 
+* MGO2-v30.pkg
+  * <https://metalgear.online/dl/cfw/MGO2-v30.pkg> 
 * MGO2 Patch 1.36.pkg
   * <https://metalgear.online/dl/cfw/MGO2%20Patch%201.36.pkg>
 * MGO2 Disc.pkg (optional)
