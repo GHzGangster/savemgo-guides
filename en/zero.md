@@ -1,5 +1,7 @@
 # MGO Zero Method (OFW)
 
+**Please note, this server is offline and this tutorial is outdated. Please visit https://mgo2pc.com**
+
 Last updated: September 2020 for FW 4.88.
 
 [![Video guide thumbnail](https://img.youtube.com/vi/G9d4ij88XME/sddefault.jpg)](https://www.youtube.com/watch?v=G9d4ij88XME)  \
