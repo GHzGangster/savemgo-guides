@@ -1,5 +1,7 @@
 # MGO Launcher Guide (CFW / HEN)
 
+**Please note, this server is offline and this tutorial is outdated. Please visit https://mgo2pc.com**
+
 Last updated: February 2022.
 
 This is the **Launcher Guide**, a guide for PS3s on Custom Firmware (CFW) and HEN.
