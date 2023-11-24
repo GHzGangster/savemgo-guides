@@ -5,8 +5,8 @@ You may be able to download the MGS4 DLC!
 Unfortunately, the game releases that work aren't known for sure. The original release of MGS4 on disc should work.
 
 In your PS3's Network Settings, change your DNS to the following:
-* Primary: **198.148.102.54**
-* Secondary: **198.148.102.54** (or leave as 0.0.0.0)
+* Primary: **142.171.43.167**
+* Secondary: **142.171.43.167** (or leave as 0.0.0.0)
 
 You can switch content between NA and JP in the Octocamo menu.
 
